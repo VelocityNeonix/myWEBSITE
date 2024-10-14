@@ -1,9 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "RRT",
+    "title": "MY PORTFOLIO",
     "description": "",
-    "home_page_url": "https://velocityneonix.github.io/myWEBSITE",
-    "feed_url": "https://velocityneonix.github.io/myWEBSITE/feed.json",
+    "home_page_url": "https://velocityneonix.github.io/MY-PORTFOLIO",
+    "feed_url": "https://velocityneonix.github.io/MY-PORTFOLIO/feed.json",
     "user_comment": "",
     "author": {
         "name": "EthanWarren"
